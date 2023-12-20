@@ -1,0 +1,51 @@
+[
+  {
+    "type": "63c069d28187558ac906f2d2",
+    "name": "пицца",
+    "sizes": [
+      { "title": "маленькая", "price": 0 },
+      { "title": "большая", "price": 50 }
+    ],
+    "image": ["https://static.pizzasushiwok.ru/images/menu_new/6-1300.jpg"]
+  },
+
+  {
+    "type": "63c06a268187558ac906f2d4",
+    "name": "Суши",
+    "sizes": [
+      { "title": "маленькая", "price": 0 },
+      { "title": "большая", "price": 50 }
+    ],
+    "image": ["https://static.pizzasushiwok.ru/images/menu_new/6-1300.jpg"]
+  },
+
+  {
+    "type": "63c06ac28187558ac906f2da",
+    "name": "Чеченская кухня",
+    "sizes": [
+      { "title": "маленькая", "price": 0 },
+      { "title": "большая", "price": 50 }
+    ],
+    "image": ["https://static.pizzasushiwok.ru/images/menu_new/6-1300.jpg"]
+  },
+
+  {
+    "type": "63c06ad88187558ac906f2db",
+    "name": "Роллы",
+    "sizes": [
+      { "title": "маленькая", "price": 0 },
+      { "title": "большая", "price": 50 }
+    ],
+    "image": ["https://static.pizzasushiwok.ru/images/menu_new/6-1300.jpg"]
+  },
+
+  {
+    "type": "63c06ae18187558ac906f2dc",
+    "name": "Напитки",
+    "sizes": [
+      { "title": "маленькая", "price": 0 },
+      { "title": "большая", "price": 50 }
+    ],
+    "image": ["https://static.pizzasushiwok.ru/images/menu_new/6-1300.jpg"]
+  }
+]
